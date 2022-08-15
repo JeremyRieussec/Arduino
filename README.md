@@ -10,6 +10,7 @@ esptool.py v3.3
 
 ### message connection 
 Serial port COM4
+
 Connecting......................................
 
 ### error message
